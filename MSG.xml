@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Msg>
+	<Data id="1">
+		<title>
+			<xmlname>hello.xml</xmlname>
+			<owner>zhj</owner>
+		</title>
+		<Number>123456</Number>
+		<Name>zhangjie</Name>
+		<email>zhangjie@sina.cn</email>
+		<website>zhangjie.hello.cn</website>
+	</Data>
+	<Data id="2">
+		<Number>789012</Number>
+		<Name>haier</Name>
+		<email>haier@sina.cn</email>
+		<website>haier.sina.cn</website>
+	</Data>
+	<Data id="3">
+		<Number>345678</Number>
+		<Name>sum</Name>
+		<email>sum@sina.cn</email>
+		<website>sum.sina.cn</website>
+	</Data>
+	<Data id="4">
+		<Number>901234</Number>
+		<Name>niil</Name>
+		<email>niil@sina.cn</email>
+		<website>niil.sina.cn</website>
+	</Data>
+</Msg>
